@@ -4,6 +4,19 @@
         <title>WTAMac</title>
         <item>
             <title>11.0.6</title>
+            <pubDate>Mon, 04 Sep 2023 20:34:52 +0300</pubDate>
+            <sparkle:version>124</sparkle:version>
+            <sparkle:shortVersionString>11.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://sergemoskalenko.github.io/WTAMac124.zip" length="1349251" type="application/octet-stream" sparkle:edSignature="1ON1YxP2ZwmHkoogs6R8zRRdfVU7rXgMd53KvlQUvyFPv4yyqzJOrXliGRfJoyjmKjwL/XC14MK2jzDcBNnxBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://sergemoskalenko.github.io/WTAMac124-123.delta" sparkle:deltaFrom="123" length="34422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+lTsxUXwdLamHxstIEqI4wmVhH8iKDSyLaQu744SI4jpoedT7h7jy7nSuuIaDtrlSgiZEKKeBcswkuchKy+ICA=="/>
+                <enclosure url="https://sergemoskalenko.github.io/WTAMac124-122.delta" sparkle:deltaFrom="122" length="36042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xqEsjJ+J/L9J/C+9X+d0/VkLEBReeWNEUxRxdVI8uTVddUn/ymhfaCDYMwsVzgZHEupZuQ/Cz45UnJS8uWJFDw=="/>
+                <enclosure url="https://sergemoskalenko.github.io/WTAMac124-121.delta" sparkle:deltaFrom="121" length="34326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="hLWJKZmkY24JmWHmsBVsqdHUht89IQ1wFbEGRHvDHUM/rbb6pbZO1AYaXXSxeajXXLrKJOUSjVzdkueap+cGDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>11.0.6</title>
             <pubDate>Mon, 04 Sep 2023 20:26:18 +0300</pubDate>
             <sparkle:version>123</sparkle:version>
             <sparkle:shortVersionString>11.0.6</sparkle:shortVersionString>
@@ -24,14 +37,6 @@
             <sparkle:deltas>
                 <enclosure url="https://sergemoskalenko.github.io/WTAMac122-121.delta" sparkle:deltaFrom="121" length="32670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+x34EoVGA9Mv2ozbSOgF8YXkAlChvlR4bT1G+K3ZTL+T0Q55rdu57A57MinPG8O3jNjY9WDWUQlfVlh7Fb6rDQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>11.0.6</title>
-            <pubDate>Mon, 04 Sep 2023 19:21:56 +0300</pubDate>
-            <sparkle:version>121</sparkle:version>
-            <sparkle:shortVersionString>11.0.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://sergemoskalenko.github.io/WTAMac121.zip" length="1349093" type="application/octet-stream" sparkle:edSignature="XcUs/RqO11c0mNaSODgTLOmcYeqhoQ/x/U8drTInDua25eLt2/uD3OgJrVyRR4c1mSscxS3Mhi8EBPjzIZehBA=="/>
         </item>
     </channel>
 </rss>
