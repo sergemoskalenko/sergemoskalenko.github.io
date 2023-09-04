@@ -4,6 +4,17 @@
         <title>WTAMac</title>
         <item>
             <title>11.0.6</title>
+            <pubDate>Mon, 04 Sep 2023 15:05:34 +0300</pubDate>
+            <sparkle:version>116</sparkle:version>
+            <sparkle:shortVersionString>11.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://sergemoskalenko.github.io/WTAMac116.zip" length="1348483" type="application/octet-stream" sparkle:edSignature="oRGituwrhA2PdGdcoeew3He2e0Zjth78TZED61GfsxNYZUeoTpdVtofg3cVX7oh9vje2tFoT+Q6HpNojOxydAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://sergemoskalenko.github.io/WTAMac116-115.delta" sparkle:deltaFrom="115" length="10870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yyViOTmuhCJlEPT3ENfl7qDVGWZEYUyKJWiHGNTFFXZgPLztu3RO0tlsXZBOv1uQudzgZ9Q50KJHHA4anKMGDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>11.0.6</title>
             <pubDate>Mon, 04 Sep 2023 14:32:07 +0300</pubDate>
             <sparkle:version>115</sparkle:version>
             <sparkle:shortVersionString>11.0.6</sparkle:shortVersionString>
