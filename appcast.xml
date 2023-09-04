@@ -4,6 +4,20 @@
         <title>WTAMac</title>
         <item>
             <title>11.0.6</title>
+            <pubDate>Mon, 04 Sep 2023 17:46:25 +0300</pubDate>
+            <sparkle:version>119</sparkle:version>
+            <sparkle:shortVersionString>11.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://sergemoskalenko.github.io/WTAMac119.zip" length="1348591" type="application/octet-stream" sparkle:edSignature="FEyLYCNPNClVJ1ZWly2YvHcAO2Y6WI7X8nTdjeumc449Jj+/O4VUdc361aka90xd66IvtWu/AnifrpeQziwoAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://sergemoskalenko.github.io/WTAMac119-118.delta" sparkle:deltaFrom="118" length="26110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="snYLw5DXnRl4mHjPCmEY+b9mzqYS+wRGZKx/bSV+Uu5xl62qltYndf+ML2BnEZdUXh3/VIN55fC55XxeS36zDg=="/>
+                <enclosure url="https://sergemoskalenko.github.io/WTAMac119-117.delta" sparkle:deltaFrom="117" length="26670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="vYyP/9hJ04u10KS1x6tFms+3YvAFBZVwdLoOrIo96+jOJyxHE0yVDM8Tkv5NsIuVrqP1FYf00mz9WTwIYmo6Ag=="/>
+                <enclosure url="https://sergemoskalenko.github.io/WTAMac119-116.delta" sparkle:deltaFrom="116" length="35350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="iaDSy1D3lWzKJtod2rmmrU8Ap/+gAjH2btWmjeXu48PXOZ6lBE/z1K7MGur+f645C2gLoE97n8M/JdcxZc3gDQ=="/>
+                <enclosure url="https://sergemoskalenko.github.io/WTAMac119-115.delta" sparkle:deltaFrom="115" length="35090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="tF9Y5ivmdyu0AySvNC/Mb08jyUvXEdgWSVsSU0LG3tEfrglPKei9J+mxgWFQs9FdkyjrWWeGYBZEDfdIRFVvDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>11.0.6</title>
             <pubDate>Mon, 04 Sep 2023 16:32:08 +0300</pubDate>
             <sparkle:version>118</sparkle:version>
             <sparkle:shortVersionString>11.0.6</sparkle:shortVersionString>
@@ -25,17 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://sergemoskalenko.github.io/WTAMac117-116.delta" sparkle:deltaFrom="116" length="35114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="o0FfUCZ0OrBHzi8GIScaUsCITxhja1VnYO49HZyA9IP3U6KDEymGD1AfCsHkGYiXwWdTIk5xNtK7QsNSp6HJCQ=="/>
                 <enclosure url="https://sergemoskalenko.github.io/WTAMac117-115.delta" sparkle:deltaFrom="115" length="35146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qhdADQc2YV/vLz+nDRWnozW7FV7N17S9e7exi6aCP0csf1mnuG62rn7oOOmqXlR5sLPcuoHRCZ5lolYUQ4OWBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>11.0.6</title>
-            <pubDate>Mon, 04 Sep 2023 15:05:34 +0300</pubDate>
-            <sparkle:version>116</sparkle:version>
-            <sparkle:shortVersionString>11.0.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://sergemoskalenko.github.io/WTAMac116.zip" length="1348483" type="application/octet-stream" sparkle:edSignature="oRGituwrhA2PdGdcoeew3He2e0Zjth78TZED61GfsxNYZUeoTpdVtofg3cVX7oh9vje2tFoT+Q6HpNojOxydAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://sergemoskalenko.github.io/WTAMac116-115.delta" sparkle:deltaFrom="115" length="10870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yyViOTmuhCJlEPT3ENfl7qDVGWZEYUyKJWiHGNTFFXZgPLztu3RO0tlsXZBOv1uQudzgZ9Q50KJHHA4anKMGDQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
