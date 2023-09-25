@@ -1,3 +1,5 @@
+ [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sergemoskalenko)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sergemoskalenko/sergemoskalenko.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
