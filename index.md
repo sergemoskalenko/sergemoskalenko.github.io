@@ -2,7 +2,7 @@
 
 <table border="0"><tr><td>
   
-[!["sergemoskalenko"](https://avatars.githubusercontent.com/u/1941586?v=4)](https://github.com/sergemoskalenko) 
+<a href="https://github.com/sergemoskalenko"><img src="https://avatars.githubusercontent.com/u/1941586?v=4" border=0></a>
 
 </td><td>
 <h1><a href="https://github.com/sergemoskalenko">Serge Moskalenko</a></h1>
