@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>WTAMac</title>
+        <item>
+            <title>11.1.0</title>
+            <pubDate>Sat, 30 Sep 2023 00:46:42 +0300</pubDate>
+            <sparkle:version>11101</sparkle:version>
+            <sparkle:shortVersionString>11.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://sergemoskalenko.github.io/WTAMac11101.zip" length="1488782" type="application/octet-stream" sparkle:edSignature="1q+41S75qwYpW5RXRqNLXgpgM86264Q6BopJsJDyKFIcUlzI0g7j7GkhJBLLP0c3uFEqEcvW4+HvmVVw3sLDAQ=="/>
+        </item>
+    </channel>
+</rss>
