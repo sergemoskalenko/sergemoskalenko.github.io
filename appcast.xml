@@ -8,7 +8,7 @@
             <sparkle:version>11010101</sparkle:version>
             <sparkle:shortVersionString>11.1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://sergemoskalenko.github.io/WTAMac11.1.1.1.zip" length="1423084" type="application/octet-stream" sparkle:edSignature="PMYUO6hKx161mqdcEUc5KGZZsx12XFHcmxpNeZTEgT7U7vIEEIErGffjSfdEKbsKQ3MU/mUzPEt/XG3a/ug0Bg=="/>
+            <enclosure url="https://sergemoskalenko.github.io/WTAMac11.1.1.1.zip" length="1423080" type="application/octet-stream" sparkle:edSignature="ZMYUO6hKx161mqdcEUc5KGZZsx12XFHcmxpNeZTEgT7U7vIEEIErGffjSfdEKbsKQ3MU/mUzPEt/XG3a/ug0Bg=="/>
         </item>
     </channel>
 </rss>
