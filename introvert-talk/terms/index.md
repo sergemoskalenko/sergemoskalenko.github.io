@@ -32,5 +32,6 @@ These terms and conditions are effective as of 2024-08-04
 
 If you have any questions about this Privacy Policy, You can contact us:
 By visiting this page on our website: 
-https://github.com/sergemoskalenko/introvert-talk
+[https://github.com/sergemoskalenko/introvert-talk](https://github.com/sergemoskalenko/introvert-talk)
+
 
