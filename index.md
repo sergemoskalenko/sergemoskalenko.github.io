@@ -7,7 +7,8 @@
 </td><td>
 <h1><a href="https://github.com/sergemoskalenko">Serge Moskalenko</a></h1>
 
-25 years of experience in software development,management & simple life. Friendly,calm,optimistic<br> mob:+380677629137<br> skype:camopu-ympo 
+25 years of experience in software development,management & simple life. Friendly,calm,optimistic<br> mob:+380677629137<br> skype:camopu-ympo <br>
+CV: <a href="https://sergemoskalenko.github.io/Serge-Moskalenko%E2%80%93CV-as-iOS_MacOS_Android_Flutter-developer-2024-10.pdf">pdf</a>
 </td></tr></table>
 
 
