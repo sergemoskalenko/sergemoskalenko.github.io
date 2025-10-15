@@ -8,7 +8,7 @@
 <h1><a href="https://github.com/sergemoskalenko">Serge Moskalenko</a></h1>
 
 25+ years of experience in software development,management & simple life. Friendly,calm,optimistic<br> mob:+380677629137<br> skype/teams:camopu-ympo <br><br>
-CV: <a href="https://sergemoskalenko.github.io/Serge-Moskalenko--CV-as-iOS_MacOS_Android_Flutter-developer-2024-10.pdf">pdf</a><br>
+CV: <a href="https://sergemoskalenko.github.io/Serge-Moskalenko--CV-as-iOS_MacOS_Android_Flutter-developer-2024-10.pdf">pdf</a><br><br>
 <a href="https://sergemoskalenko.github.io/oferta-it/"> Public Offer for the Provision of IT Services </a><br>
 </td></tr></table>
 
